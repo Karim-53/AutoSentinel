@@ -1,0 +1,48 @@
+++ img
+https://aws.amazon.com/fr/rekognition/
+
+
+++ open cv
+http://funvision.blogspot.cz/2016/11/video-stabilization-by-good-feature-to.html
+
+
+https://stackoverflow.com/questions/8791178/haar-cascades-vs-lbp-cascades-in-face-detection
+
+
+http://funvision.blogspot.cz/2017/01/lbp-cascade-for-head-and-people.html
+
+
+
+https://www.facebook.com/funvisionblog/
+
+
+the first cascading classifier is the face detector of Viola and Jones (2001). The requirement for this classifier was to be fast in order to be implemented on low-power CPUs, such as cameras and phones.
+https://en.wikipedia.org/wiki/Cascading_classifiers
+
+
+https://arxiv.org/ftp/arxiv/papers/1710/1710.02726.pdf
+http://www.willowgarage.com/sites/default/files/orb_final.pdf
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_orb/py_orb.html
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_table_of_contents_feature2d/py_table_of_contents_feature2d.html
+https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_feature2d/py_feature_homography/py_feature_homography.html#py-feature-homography
+
+
+https://aws.amazon.com/fr/sumerian/
+
+
+____________________________________________________________________
+In other words, if a person sees someone repeatedly over time, in different environments and at a distance, or someone who displays poor surveillance demeanor, then that person can assume he or she is under surveillance.
+
+http://www.start.umd.edu/gtd/
+Includes information on more than 83,000 bombings, 18,000 assassinations, and 11,000 kidnappings since 1970
+http://www.start.umd.edu/gtd/downloads/Codebook.pdf
+
+
+Contrary to the view of terrorism that we commonly get from the media, the vast majority of terrorist attacks rely on readily accessible weapons. According to Figure 4, the most common weapons in the GTD database were explosives and firearms. These two categories account for nearly 80 per cent of all attacks. For the most part, the explosives used were readily available, especially dynamite, grenades, mortars and improvised devices placed inside vehicles ("car bombs"). Similarly, the most common firearms were also widely available, especially automatic weapons, shot guns, and pistols. After explosives and firearms, incendiaries (fire or firebombs) account for nearly eight per cent of the incidents. Melee attacks, which include assaults with weapons such as blunt objects, knives, and ropes, account for fewer than two per cent of all attacks. Weapons included in the "other" category were diverse, including items such as sabotage equipment, vehicles (not vehicle-borne explosives), biological, radiological, and fake weapons. Among the more sophisticated weapon types were 523 attacks using remote-detonated devices, 213 attacks using chemical agents, 26 attacks involving biological agents, and 15 attacks involving radiological materials. Note that chemical agents were responsible for about one-quarter of one per cent of all incidents and biological and radiological agents were each present in less than three-one hundredths of one per cent of all attacks. The remote-detonated explosive devices were usually left on the roadside or attached to vehicles. Chemical agents range from letters containing rat poison to tainted water supplies. Ten of the 26 biological weapons cases were the US anthrax attacks of 2001 in which seven people died. Likewise, 10 of the 15 cases involving radiological materials were related to attacks in which an individual sent envelopes containing monazite to Japanese government officials, causing no injuries.
+
+Terrorism is the tool of the politically weak. It is used precisely because the groups involved do not have a lot of sophisticated weaponry. If they did, they would probably use it in more conventional military ways. Typical terrorist attacks use readily available weapons. In contrast to high profile media reports, sophisticated weapons, including chemical, biological or radiological materials, are the rare exception.
+
+Given the persistence of high profile, long lasting groups like Al Qaeda, the Tamil Tigers or the IRA, there is also a common perception that most terrorist groups have long life spans. The GTD identifies more than 1,500 separate terrorist groups. We gauged their longevity by the amount of time from their first strike to their last. In Figure 6, I show the average length of time during which these organizations have mounted attacks, based on a recently completed analysis of an earlier version of the GTD.
+http://www.terrorismanalysts.com/pt/index.php/pot/article/view/89/html
+
+https://forum.videohelp.com/threads/342321-Movement-tracking-while-decoding

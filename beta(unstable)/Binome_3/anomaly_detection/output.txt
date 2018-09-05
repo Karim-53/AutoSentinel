@@ -1,0 +1,1 @@
+video num : 1 ====> un anomaly est detecter dans la position suivante : x=202,  y=113
