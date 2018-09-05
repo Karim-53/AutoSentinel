@@ -1,0 +1,1 @@
+video num : 1 ====> une anomalie est detecté dans la position suivante : x=101,  y=58
